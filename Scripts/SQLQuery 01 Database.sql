@@ -14,6 +14,7 @@ USE DataWarehouse;
 
 CREATE SCHEMA Bronze;
 
-CREATE SCHEMA Sliver;
+CREATE SCHEMA Silver;
+
 
 CREATE SCHEMA Gold;
